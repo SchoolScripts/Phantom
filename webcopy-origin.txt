@@ -1,0 +1,336 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fundingchoicesmessages.google.com/i/pub-7201486962634799?ers=1
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\i\pub-7201486962634799
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7201486962634799
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://phantom.delusionz.xyz/
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\index.htm
+Content Type: text/html
+
+Uri: https://phantom.delusionz.xyz/assets/art.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\art.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/canvas.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\canvas.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/checkerboardpng.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\checkerboardpng.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/checkerboardpng7.avif
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\checkerboardpng7.avif
+Content Type: application/octet-stream
+
+Uri: https://phantom.delusionz.xyz/assets/classroom.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\classroom.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/clever.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\clever.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/cog.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\cog.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/drive.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\drive.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/gmail.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\gmail.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/google.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\google.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/lock.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\lock.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/mobile-icon-pg.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\mobile-icon-pg.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/phantom-set.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\phantom-set.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/phantom.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\phantom.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/phantom.svg
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\phantom.svg
+Content Type: image/svg+xml
+
+Uri: https://phantom.delusionz.xyz/assets/sprinkle.svg
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\sprinkle.svg
+Content Type: image/svg+xml
+
+Uri: https://phantom.delusionz.xyz/assets/store.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\store.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/assets/ytpng.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\assets\ytpng.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://phantom.delusionz.xyz/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://phantom.delusionz.xyz/hacks.js
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\hacks.js
+Content Type: application/javascript
+
+Uri: https://phantom.delusionz.xyz/main.css
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\main.css
+Content Type: text/css
+
+Uri: https://phantom.delusionz.xyz/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\manifest.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://phantom.delusionz.xyz/other/about.html
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\other\about.html
+Content Type: text/html
+
+Uri: https://phantom.delusionz.xyz/other/dmca.html
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\other\dmca.html
+Content Type: text/html
+
+Uri: https://phantom.delusionz.xyz/other/privacy-policy.html
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\other\privacy-policy.html
+Content Type: text/html
+
+Uri: https://phantom.delusionz.xyz/other/terms.html
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\other\terms.html
+Content Type: text/html
+
+Uri: https://phantom.delusionz.xyz/script.js
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\script.js
+Content Type: application/javascript
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\css\all.css
+Content Type: text/css
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\releases\v6.2.0\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.copyright.gov/legislation/dmca.pdf
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\legislation\dmca.pdf
+Content Type: application/pdf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-ZT64FYRXR6
+File Name: C:\Downloaded Web Sites\phantom.delusionz.xyz\gtag\js
+Content Type: application/javascript
+
